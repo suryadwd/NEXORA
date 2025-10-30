@@ -44,7 +44,7 @@ The project is divided into two main directories:
 
 1. Clone the repository
 ```bash
-git clone [https://github.com/suryadwd/NEXORA]
+git clone https://github.com/suryadwd/NEXORA
 cd Nexora
 ```
 
@@ -137,8 +137,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [surajdwivedi644@gmail.com]
-Project Link: [https://github.com/suryadwd/Nexora]
+Your Name - surajdwivedi644@gmail.com
+Project Link: https://github.com/suryadwd/Nexora
 
 ---
 
