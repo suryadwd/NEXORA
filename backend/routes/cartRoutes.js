@@ -4,10 +4,10 @@ import Product from '../models/Product.js';
 
 const router = express.Router();
 
-// In-memory cart for demo (can be replaced with user-based cart in DB)
+
 let cartItems = [];
 
-// GET /api/cart - Get cart items with total
+
 router.get('/', async (req, res) => {
   try {
     let total = 0;

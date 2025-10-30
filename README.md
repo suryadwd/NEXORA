@@ -94,34 +94,6 @@ The backend will be available at `http://localhost:3000`
 ### Checkout
 - `POST /api/checkout` - Process checkout
 
-## Project Structure Details
-
-```
-├── backend/
-│   ├── config/
-│   │   └── database.js       # Database configuration
-│   ├── models/
-│   │   ├── CartItem.js      # Cart item model
-│   │   └── Product.js       # Product model
-│   ├── routes/
-│   │   ├── cartRoutes.js    # Cart endpoints
-│   │   ├── checkoutRoutes.js # Checkout endpoints
-│   │   └── productRoutes.js  # Product endpoints
-│   ├── package.json
-│   └── server.js            # Main server file
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   │   ├── Cart.jsx     # Shopping cart component
-│   │   │   ├── Checkout.jsx # Checkout component
-│   │   │   └── Products.jsx # Products display component
-│   │   ├── App.jsx         # Main application component
-│   │   └── main.jsx        # Application entry point
-│   ├── index.html
-│   ├── package.json
-│   └── vite.config.js      # Vite configuration
-```
 
 ## Contributing
 
