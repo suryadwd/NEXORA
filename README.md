@@ -44,7 +44,7 @@ The project is divided into two main directories:
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone [https://github.com/suryadwd/NEXORA]
 cd Nexora
 ```
 
